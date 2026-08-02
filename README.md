@@ -23,7 +23,8 @@
 | Файл | Что внутри |
 |---|---|
 | `zadaniya/razrezy-otkrytye-uzly.md` | Текущее задание: закрыть 13 открытых узлов по разрезам |
-| `zadaniya/claude-design-karta.md` | Текущее задание: собрать карту работы в Claude Design |
+| `zadaniya/claude-design-karta.md` | Задание закрыто: карта работы в Claude Design сдана и принята |
+| `zadaniya/analogi-rynka-snabzheniya.md` | Текущее задание: кто на рынке уже продаёт снабжение по подписке |
 | `pravila/kak-zaschityvaetsya-chertezh.md` | Когда разрез засчитан, когда нет, и в каком виде даётся ответ |
 | `pravila/kak-sdavat-rezultat.md` | Результат сдаётся файлом `.md` со строкой, в какую папку его класть |
 
