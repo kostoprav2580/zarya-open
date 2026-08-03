@@ -24,7 +24,9 @@
 |---|---|
 | `zadaniya/razrezy-otkrytye-uzly.md` | Текущее задание: закрыть 13 открытых узлов по разрезам |
 | `zadaniya/claude-design-karta.md` | Задание закрыто: карта работы в Claude Design сдана и принята |
-| `zadaniya/analogi-rynka-snabzheniya.md` | Текущее задание: кто на рынке уже продаёт снабжение по подписке |
+| `zadaniya/analogi-rynka-snabzheniya.md` | Задание закрыто: обзор рынка снабжения сдан и принят |
+| `zadaniya/video-po-produktam-osnovnye.md` | Текущее задание: видео по четырём продуктам, с которыми будем говорить |
+| `zadaniya/video-po-produktam-ostalnye.md` | Текущее задание: видео по остальным продуктам обзора, как образец устройства |
 | `pravila/kak-zaschityvaetsya-chertezh.md` | Когда разрез засчитан, когда нет, и в каком виде даётся ответ |
 | `pravila/kak-sdavat-rezultat.md` | Результат сдаётся файлом `.md` со строкой, в какую папку его класть |
 
